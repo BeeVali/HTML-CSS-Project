@@ -1,0 +1,105 @@
+/* Our app */
+
+
+
+body{
+    font-family:"Montserrat", sans-serif;
+}
+.app-wrapper{
+    display:flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+/* Sidebar styles */
+}
+.sidebar-section{
+    background-color: #DFEEFF;
+    margin-top: 40px;
+}
+.sidebar-image{
+    margin-top: 40px;
+}
+.contacts-container{
+    padding-left: 40px;
+}
+.contacts-header{
+    color: #161D2A;
+    font-size: 22px; 
+    font-style: normal; 
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 8px;
+}
+/* Main content styles */
+.contacts-item{
+    color: #161D2A; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: 24px;
+}
+.contacts-phone{
+    color: #4489FF;
+    font-size: 14px; 
+    font-style: normal; 
+    font-weight: 400; 
+    line-height: normal;
+    text-decoration: none;
+}
+.contacts-email{
+    color: #4489FF;
+    font-size: 14px; 
+    font-style: normal; 
+    font-weight: 400; 
+    line-height: 24px;  
+}
+.contacts-element{
+    margin-top: -12px;
+}
+.tech-skills-section{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+.tech-skills-header{
+    color: #161D2A; 
+    font-size: 22px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: normal;
+}
+.tech-skills-list{
+    color: #161D2A; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-weight: 400; 
+    line-height: 24px;
+    margin-top: -15px;
+    margin-left: -10px;
+}
+.soft-skills-section{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+.soft-skills-header{
+    color: #161D2A; 
+    font-size: 22px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: normal;
+}
+.soft-skills-list{
+    color: #161D2A; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-weight: 400; 
+    line-height: 24px;
+    margin-top: -15px;
+    margin-left: -10px;
+}
+
+
+
+
+.right-side-container{
+    padding-left: 88px;
+}
